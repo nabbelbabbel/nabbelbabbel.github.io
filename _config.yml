@@ -15,7 +15,7 @@ theme_settings:
   header_text: > #two or three lines to describe your site  <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
   header_text_feature_image: assets/img/own/logo_header.png
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>, site maintained by Jan P. Unsleber
 
   # Icons
   rss: true
