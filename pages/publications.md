@@ -10,7 +10,7 @@ tags: [Article, Poster, Talk]
 J. P. Unsleber, T. Dresselhaus, K. Klahr, D. Schnieders, M. Böckers, D. Barton, J. Neugebauer  
 *J. Comput. Chem.* (**2017**), accepted for publication.  
   
-*DFT methods applied to answer the question: how accurate is the Ligand Acidity Constant method for estimating the $pK_a$ of transition metal hydride complexes $MHXL_4$ when X is varied?*  
+*DFT methods applied to answer the question: how accurate is the Ligand Acidity Constant method for estimating the $$pK_a$$ of transition metal hydride complexes $$MHXL_4$$ when X is varied?*  
 J. P. Unsleber, J. Neugebauer, R.H. Morris  
 *Dalton Trans. (**2017**), accepted for publication
 
@@ -57,7 +57,7 @@ The Ninth Congress of the International Society for Theoretical Chemical Physics
 (October 5th-6th, 2015)  
   
 *Towards Accurate Wavefunction-in-DFT Embedding*  
-51. Symposium für Theoretische Chemie, STC 2015  
+51st Symposium für Theoretische Chemie, STC 2015  
 (September 20th-24th, 2015)  
    
 *Towards Accurate Wavefunction-in-DFT Embedding for Transition Metal Catalysts*  
