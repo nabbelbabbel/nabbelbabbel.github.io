@@ -15,7 +15,7 @@ J. P. Unsleber, J. Neugebauer, R.H. Morris
 [*Dalton Trans.* (**2017**), DOI: 10.1039/C7DT03473C.](http://dx.doi.org/10.1039/C7DT03473C)
 
 *No Need for External Orthogonality in Subsystem Density-Functional Theory*  
-J. P. Unsleber, J. Neugebauer, C.R. Jacob
+J. P. Unsleber, J. Neugebauer, C.R. Jacob  
 [*Phys. Chem. Chem. Phys.*, 18 (**2016**), 21001.](https://doi.org/10.1039/C6CP00332J)  
   
 *pH Response and Molecular Recognition in a Low Molecular Weight Peptide Hydrogel*  
