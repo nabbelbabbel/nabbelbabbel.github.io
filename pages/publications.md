@@ -11,11 +11,11 @@ J. P. Unsleber, T. Dresselhaus, K. Klahr, D. Schnieders, M. Böckers, D. Barton,
 [*J. Comput. Chem.* (**2017**), DOI: 10.1002/jcc.25162.](http://dx.doi.org/10.1002/jcc.25162)  
   
 *DFT methods applied to answer the question: how accurate is the Ligand Acidity Constant method for estimating the pK$$_a$$ of transition metal hydride complexes MHXL$$_4$$ when X is varied?*  
-J. P. Unsleber, J. Neugebauer, R.H. Morris  
+J. P. Unsleber, J. Neugebauer, R. H. Morris  
 [*Dalton Trans.* (**2017**), DOI: 10.1039/C7DT03473C.](http://dx.doi.org/10.1039/C7DT03473C)
 
 *No Need for External Orthogonality in Subsystem Density-Functional Theory*  
-J. P. Unsleber, J. Neugebauer, C.R. Jacob  
+J. P. Unsleber, J. Neugebauer, C. R. Jacob  
 [*Phys. Chem. Chem. Phys.*, 18 (**2016**), 21001.](https://doi.org/10.1039/C6CP00332J)  
   
 *pH Response and Molecular Recognition in a Low Molecular Weight Peptide Hydrogel*  
