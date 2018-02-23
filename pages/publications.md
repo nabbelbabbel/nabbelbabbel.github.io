@@ -32,7 +32,7 @@ H. Frisch, J. P. Unsleber, D. Lüdeker, M. Peterlechner, G. Brunklaus, M. P. Wal
 (March 9th-10th, 2017)  
   
 *Computational Reaction Path Analysis for NHC-Catalyzed Annulation Reactions*  
-2nd Symposium of the IRTG 2027 Müunster--Toronto, Münster   
+2nd Symposium of the IRTG 2027 Münster--Toronto, Münster   
 (October 5th-6th, 2015)  
 
 ## Poster Presentations
