@@ -63,10 +63,6 @@ The Ninth Congress of the International Society for Theoretical Chemical Physics
 *Yet Another New Quantum Chemistry Program?*  
 2nd Symposium of the IRTG 2027 Münster--Toronto, Münster   
 (October 5th-6th, 2015)  
-  
-*Towards Accurate Wavefunction-in-DFT Embedding*  
-51st Symposium für Theoretische Chemie, STC 2015  
-(September 20th-24th, 2015)  
    
 *Towards Accurate Wavefunction-in-DFT Embedding for Transition Metal Catalysts*  
 6th Münster Symposium on Cooperative Effects in Chemistry, MS\_CEC 2015, Münster  
@@ -76,3 +72,6 @@ The Ninth Congress of the International Society for Theoretical Chemical Physics
 1st Symposium of the IRTG 2027 Münster--Toronto, Toronto    
 (March 20th-21st, 2015)    
  
+*A Basis Set Expansion of Cap Potentials in Constrained MFCC and 3-FDE Calculations*  
+Sostrup Summer School - Quantum Chemistry and Molecular Properties  
+(July 6th-18th, 2014)  
