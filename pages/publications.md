@@ -31,6 +31,14 @@ H. Frisch, J. P. Unsleber, D. Lüdeker, M. Peterlechner, G. Brunklaus, M. P. Wal
 5th Symposium of the IRTG 2027 Münster--Toronto, Toronto    
 (March 9th-10th, 2017)  
   
+*Toronto--Münster Collaborations an Overview*  
+Morris Lab Seminar, University of Toronto, Toronto  
+(October 3rd, 2016)  
+  
+*Embedding -- Subsystem DFT*  
+Morris Lab Seminar, University of Toronto, Toronto  
+(June 13th, 2016)  
+
 *Computational Reaction Path Analysis for NHC-Catalyzed Annulation Reactions*  
 2nd Symposium of the IRTG 2027 Münster--Toronto, Münster   
 (October 5th-6th, 2015)  
