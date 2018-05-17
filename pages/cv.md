@@ -7,7 +7,7 @@ tags: []
 ---
 
 ### Education
-- **since 10/2014** Dissertation (Dr. rer. nat.) , Theoretical Chemistry
+- **since 10/2014** Dissertation (Dr. rer. nat.), Theoretical Chemistry  
 Thesis: *"Making Embedding Methods Work for Metal--Ligand Systems"*  
 Supervisor: Prof. Dr. Johannes Neugebauer  
 Organisch Chemisches Institut  
