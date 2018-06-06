@@ -10,7 +10,7 @@ tags: [Article, Poster, Talk]
 J. P. Unsleber, T. Dresselhaus, K. Klahr, D. Schnieders, M. Böckers, D. Barton, J. Neugebauer  
 [*J. Comput. Chem.*, 39 (**2018**), 778.](http://dx.doi.org/10.1002/jcc.25162)  
 This publication was chosen to be highlighted on the cover of    
-[*J. Comput. Chem.* 39 (2018)](http://dx.doi.org/10.1002/jcc.25216)  
+[*J. Comput. Chem.* 39 (**2018**)](http://dx.doi.org/10.1002/jcc.25216)  
 
 *DFT methods applied to answer the question: how accurate is the Ligand Acidity Constant method for estimating the pK$$_a$$ of transition metal hydride complexes MHXL$$_4$$ when X is varied?*  
 J. P. Unsleber, J. Neugebauer, R. H. Morris  
