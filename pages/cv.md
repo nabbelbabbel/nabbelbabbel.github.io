@@ -11,8 +11,8 @@ tags: []
 Group of Prof. Dr. Markus Reiher  
 Laboratory of Physical Chemistry  
 ETH Zürich, Switzerland  
-- **10/2014--07/2018** Scientific Assistant 
-Group of Prof. Dr. Johannes Neugebauer  
+- **10/2014--07/2018** Scientific Assistant   
+Group of Prof. Dr. Johannes Neugebauer    
 Organisch Chemisches Institut  
 Westfälische Wilhelms-Universität Münster, Germany  
 - **05/2013--09/2014** Student Assistant  
