@@ -8,7 +8,7 @@ tags: [Article, Poster, Talk]
 ## Scientific Articles
 *Serenity: A Subsystem Quantum Chemistry Program*  
 J. P. Unsleber, T. Dresselhaus, K. Klahr, D. Schnieders, M. Böckers, D. Barton, J. Neugebauer  
-[*J. Comput. Chem.*, 39 (**2018**), 778.](http://dx.doi.org/10.1002/jcc.25162)  
+[*J. Comput. Chem.*, 39 (**2018**), 788.](http://dx.doi.org/10.1002/jcc.25162)  
 This publication was chosen to be highlighted on the cover of    
 [*J. Comput. Chem.* 39 (**2018**)](http://dx.doi.org/10.1002/jcc.25216)  
 
