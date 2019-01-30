@@ -39,7 +39,12 @@ Organisch Chemisches Institut
 Westfälische Wilhelms-Universität Münster, Germany  
 - **08/2001--06/2009** Abitur  
 Anne-Frank-Gymnasium Werne, Germany
-### Grants, Awards and Fellowships
+### Awards
+- **Evonik Preis 2019** Awarded for outstanding research during a PhD thesis. 
+Given in acknowledgement of the work on Serenity.
+### Grants and Fellowships
+- **XX/2019--XX/2021** Forschungsstipendium der 
+Deutschen Forschungsgemeinschaft (DFG)
 - **10/2014--09/2017** Fellowship: IRTG Münster--Toronto  
 New Trends in Molecular Activation and Catalysis  
 International Research Training Group (IRTG) 2027
