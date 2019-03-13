@@ -44,7 +44,7 @@ Anne-Frank-Gymnasium Werne, Germany
 Awarded for outstanding research during a PhD thesis.  
 Given in acknowledgement of the work on Serenity.
 ### Grants and Fellowships
-- **XX/2019--XX/2021** Research Fellowship   
+- **07/2019--06/2021** Research Fellowship   
 of the Deutschen Forschungsgemeinschaft (DFG)
 - **10/2014--09/2017** Fellowship: IRTG Münster--Toronto  
 New Trends in Molecular Activation and Catalysis  
