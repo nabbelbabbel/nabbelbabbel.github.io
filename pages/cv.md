@@ -25,7 +25,7 @@ Supervisor: Prof. Dr. Johannes Neugebauer
 Organisch Chemisches Institut  
 Westfälische Wilhelms-Universität Münster, Germany  
 - **04/2016--10/2016** Research Stay, University of Toronto  
-Supervisor: Prof. Dr. Robert H. Morris  
+Group of Prof. Dr. Robert H. Morris  
 Department of Chemistry, University of Toronto, Canada  
 - **10/2012--09/2014** Master of Science, Chemistry  
 Thesis: *"Towards an improved subsystem-DFT description of covalently bonded fragments"*  
@@ -34,7 +34,7 @@ Organisch Chemisches Institut
 Westfälische Wilhelms-Universität Münster, Germany  
 - **10/2009--09/2012** Bachelor of Science, Chemistry  
 Thesis: *"Theoretical investigation of C3-symmetrical discotics"*  
-Supervisor: Dr. Mark P. Waller (now Prof. at Shanghai Universiy) and Dr. Christian Mück-Lichtenfeld  
+Supervisor: Dr. Mark P. Waller and Dr. Christian Mück-Lichtenfeld  
 Organisch Chemisches Institut  
 Westfälische Wilhelms-Universität Münster, Germany  
 - **08/2001--06/2009** Abitur  
