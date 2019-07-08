@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Serenity
-feature-img: "assets/img/portfolio/serenity_logo.png"
-img: "assets/img/portfolio/SerenityLogoSmall.png"
+feature-img: "assets/img/portfolio/SerenityLogoSmall.png"
+img: "assets/img/portfolio/serenity_logo.png"
 date: January 25th, 2018
 tags: [Serenity, Code]
 ---
