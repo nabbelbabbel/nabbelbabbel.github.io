@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " "
+title: Scine
 feature-img: "assets/img/portfolio/scine_logo.png"
 img: "assets/img/portfolio/scine_logo_cropped.png"
 date: January 25th, 2018
