@@ -2,7 +2,7 @@
 layout: post
 title: " "
 feature-img: "assets/img/portfolio/scine_logo.png"
-img: "assets/img/portfolio/scine_logo.png"
+img: "assets/img/portfolio/scine_logo_cropped.png"
 date: January 25th, 2018
 tags: [Scine, Code]
 ---
