@@ -6,6 +6,11 @@ feature-img: "assets/img/pexels/publications.jpeg"
 tags: [Article]
 ---
 ## Scientific Articles
+*The Exploration of Chemical Reaction Networks*  
+J. P. Unsleber, M. Reiher  
+[*Annu. Rev. Phys. Chem.*, (**2019**), sumbmitted.](https://arxiv.org/abs/1906.10223)  
+Preprint: [*arXiv:1906.10223*](https://arxiv.org/abs/1906.10223)  
+
 *Serenity: A Subsystem Quantum Chemistry Program*  
 J. P. Unsleber, T. Dresselhaus, K. Klahr, D. Schnieders, M. Böckers, D. Barton, J. Neugebauer  
 [*J. Comput. Chem.*, 39 (**2018**), 788.](http://dx.doi.org/10.1002/jcc.25162)  
