@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="600"
+   viewBox="0 0 158.75 158.75"
+   version="1.1"
+   id="svg1052"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="serenity_logo.svg">
+  <defs
+     id="defs1046" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-188.74587"
+     inkscape:cy="279.78454"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3840"
+     inkscape:window-height="2061"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     units="px"
+     showguides="false" />
+  <metadata
+     id="metadata1049">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-138.25001)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot867"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:13.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion869"><rect
+           id="rect871"
+           width="67.400078"
+           height="23.25355"
+           x="276.78571"
+           y="272.5" /></flowRegion><flowPara
+         id="flowPara873" /></flowRoot>    <g
+       transform="matrix(0.58771862,0,0,0.58771862,-223.71471,114.44118)"
+       id="g2377">
+      <text
+         transform="scale(0.97043851,1.030462)"
+         id="text3767-2"
+         y="246.12991"
+         x="515.88177"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Adobe Helvetica';letter-spacing:0px;word-spacing:0px;fill:#307800;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           dy="0"
+           dx="0"
+           style="font-weight:bold;font-size:122.00260925px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';word-spacing:0px;fill:#307800;fill-opacity:1"
+           y="246.12991"
+           x="515.88177"
+           id="tspan3769-0"
+           sodipodi:role="line"><tspan
+             dx="11.377216"
+             id="tspan3816-9"
+             style="font-size:154.66751099px;font-family:sans-serif;fill:#307800;fill-opacity:1">S</tspan></tspan></text>
+      <ellipse
+         ry="20.914082"
+         rx="24.216305"
+         cy="269.73523"
+         cx="456.44067"
+         transform="matrix(1.1178556,0,0,1.294359,-33.047278,-121.49742)"
+         id="path3028"
+         style="fill:#47b400;fill-opacity:1;stroke:#338000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="20.914082"
+         rx="24.216305"
+         cy="269.73523"
+         cx="456.44067"
+         transform="matrix(0.56341177,0,0,0.65237148,175.21389,65.331251)"
+         id="path3028-2"
+         style="fill:#3c9600;fill-opacity:1;stroke:#3d9900;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2991-0"
+         d="M 399.87504,219.23415 C 524.06083,153.24905 487.02228,76.458429 633.76249,126.15623"
+         style="fill:none;stroke:#333333;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
