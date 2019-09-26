@@ -23,6 +23,10 @@ tags: [Poster, Talk]
 (October 5th-6th, 2015)  
 
 ## Poster Presentations
+*Strategies and Requirements for the Automated Exploration of Complex Chemical Reaction Networks*  
+10th Triennial Congress of the International Society for Theoretical Chemical Physics, ISTCP 2019, Tromsø, Norway  
+(July 11th-17th, 2019)   
+
 *Density Functional Theory Applied to Determine Acidities of Transition Metal Hydride Complexes*  
 On-site Review of the IRTG 2027 Münster--Toronto, Münster  
 (Febuary 6th-7th, 2018)  
@@ -40,7 +44,7 @@ On-site Review of the IRTG 2027 Münster--Toronto, Münster
 (March 9th-10th, 2017)  
   
 *Many-Body Energies and Energy Decomposition of Non-Covalent Complexes and Clusters with Subsystem DFT*  
-The Ninth Congress of the International Society for Theoretical Chemical Physics, ISTCP 2016, Grand Forks, ND  
+9th Triennial Congress of the International Society for Theoretical Chemical Physics, ISTCP 2016, Grand Forks, ND  
 (July 17th-22th, 2016)  
   
 *Energy Decomposition in Subsystem DFT*    
