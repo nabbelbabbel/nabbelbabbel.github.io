@@ -8,7 +8,7 @@ tags: [Article]
 ## Scientific Articles
 *The Exploration of Chemical Reaction Networks*  
 J. P. Unsleber, M. Reiher  
-[*Annu. Rev. Phys. Chem.*, (**2020**), ahead of publication.](https://doi.org/10.1146/annurev-physchem-071119-040123)  
+[*Annu. Rev. Phys. Chem.*, 71 (**2020**), 121.](https://doi.org/10.1146/annurev-physchem-071119-040123)  
 Preprint: [*arXiv:1906.10223*](https://arxiv.org/abs/1906.10223)  
 
 *Serenity: A Subsystem Quantum Chemistry Program*  
