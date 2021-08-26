@@ -5,6 +5,12 @@ permalink: /publications/
 feature-img: "assets/img/pexels/publications.jpeg"
 tags: [Article]
 ---
+
+## Preprints
+*Solvation Free Energies in Subsystem Density Functional Theory*  
+M. Bensberg, P. L. Türtscher, J. P. Unsleber, M. Reiher, J. Neugebauer  
+[*arXiv:2108.11228*](https://arxiv.org/abs/2108.11228)  
+
 ## Scientific Articles
 *The Exploration of Chemical Reaction Networks*  
 J. P. Unsleber, M. Reiher  
