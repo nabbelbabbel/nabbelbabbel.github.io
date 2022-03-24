@@ -19,7 +19,7 @@ Preprint: [*arXiv:2108.11228*](https://arxiv.org/abs/2108.11228)
 
 *Expansive Quantum Mechanical Exploration of Chemical Reaction Paths*  
 [*Acc. Chem. Res.*, 55, (**2022**), 35.](https://doi.org/10.1021/acs.accounts.1c00472)  
-A. Baiardi, S. A. Grimmel, M. Steiner, P. L. Türtscher, J. P. Unsleber, T. Weymuth, M. Reiher
+A. Baiardi, S. A. Grimmel, M. Steiner, P. L. Türtscher, J. P. Unsleber, T. Weymuth, M. Reiher  
 Preprint: [*arXiv:2112.04944*](https://doi.org/10.48550/arXiv.2112.04944)  
 
 *The Exploration of Chemical Reaction Networks*  
