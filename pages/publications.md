@@ -6,12 +6,26 @@ feature-img: "assets/img/pexels/publications.jpeg"
 tags: [Article]
 ---
 
-## Preprints
-*Chemoton 2.0: Autonomous Exploration of Chemical Reaction Networks*  
-J. P. Unsleber, S. A. Grimmel, M. Reiher  
-[*arXiv:2202.13011*](https://doi.org/10.48550/arXiv.2202.13011)  
+## Latest Preprints
+*High-throughput ab initio reaction mechanism exploration in the cloud with automated multi-reference validation*  
+J. P. Unsleber, H. Liu, L. Talirz, T. Weymuth, M. Mörchen, A. Grofe, D. Wecker, C. J. Stein, A. Panyala, B. Peng, K. Kowalski, M. Troyer, M. Reiher    
+Preprint: [*arXiv:2211.14688*](https://doi.org/10.48550/arXiv.2211.14688)  
+
+*Quantum Chemical Data Generation as Fill-In for Reliability Enhancement of Machine-Learning Reaction and Retrosynthesis Planning*  
+A. Toniato, J. P. Unsleber, A. Vaucher, T. Weymuth, D. Probst, T. Laino, M. Reiher  
+Preprint: [*chemrxiv:2022-gd0q9*](https://doi.org/10.26434/chemrxiv-2022-gd0q9)  
+
 
 ## Scientific Articles
+*The subsystem quantum chemistry program SERENITY*  
+[*WIREs Comput. Mol. Sci.*, (**2022**), e1647.](https://doi.org/10.1002/wcms.1647)  
+N. Niemeyer, P. Eschenbach, M. Bensberg, J. Tölle, L. Hellmann, L. Lampe, A. Massolle, A. Rikus, D. Schnieders, J. P. Unsleber, J. Neugebauer  
+
+*Chemoton 2.0: Autonomous Exploration of Chemical Reaction Networks*  
+[*J. Chem. Theory Comput.*, 18, (**2022**), 5393.](https://doi.org/10.1021/acs.jctc.2c00193)  
+J. P. Unsleber, S. A. Grimmel, M. Reiher  
+Preprint: [*arXiv:2202.13011*](https://doi.org/10.48550/arXiv.2202.13011)  
+
 *Solvation Free Energies in Subsystem Density Functional Theory*  
 [*J. Chem. Theory Comput.*, 18, (**2022**), 723.](https://doi.org/10.1021/acs.jctc.1c00864)  
 M. Bensberg, P. L. Türtscher, J. P. Unsleber, M. Reiher, J. Neugebauer  
