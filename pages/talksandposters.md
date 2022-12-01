@@ -5,7 +5,27 @@ permalink: /talksandposters/
 feature-img: "assets/img/pexels/publications.jpeg"
 tags: [Poster, Talk]
 ---
-## Contributed Scientific Talks
+## Scientific Talks
+*Autonomous quantum chemical mechanism exploration to aid artificial intelligence driven synthesis planning and catalyst design*  
+NCCR Catalysis Annual Event, Zürich  
+(June 9th-10th, 2022)  
+
+*Chemoton 2.0: Autonomous exploration of Chemical Reaction Network*  
+Invited Presentation at BASF, Virtual  
+(May 16th, 2022)  
+
+*Chemoton 2.0: Autonomous exploration of Chemical Reaction Network*  
+Invited Presentation at Covestro, Virtual  
+(May 11th, 2022)  
+
+*Developing Software in an Academic Setting -- Lessons Learned in Computational Chemistry*  
+IVV Kolloquium, Münster  
+(Febuary 3rd, 2022)  
+ 
+*Chemoton 2.0*  
+Neugebauer Group Seminar, Münster  
+(December 15th, 2021)  
+
 *Strategies and Requirements for the Automated Exploration of Complex Chemical Reaction Networks*  
 9th Molecular Quantum Mechanics Conference, MQM 2019, Heidelberg  
 (June 30th-July 5th, 2019)  
@@ -22,7 +42,23 @@ tags: [Poster, Talk]
 2nd Symposium of the IRTG 2027 Münster--Toronto, Münster   
 (October 5th-6th, 2015)  
 
+*Embedding in Serenity*  
+2nd Joint Seminar on Purpose-Driven Quantum Chemistry, Bodefeld  
+(September 18th, 2015)  
+
 ## Poster Presentations
+*Chemoton 2.0: Exploring Reaction Networks*  
+58th Symposium on Theoretical Chemistry, STC 2022, Heidelberg  
+(September 9th-22nd, 2022)  
+
+*Chemoton 2.0: Exploring Reaction Networks*  
+SCS Fall Meeting 2022, Zurich  
+(September 8th, 2022)  
+
+*Chemoton 2.0: Exploring Reaction Networks*  
+12th Triennial Congress of the Wold Association of Theoretical and Computational Chemists, WATOC 2020, Vancouver  
+(July 3rd-8th, 2022)  
+
 *Chemoton 2.0: Exploring Reaction Networks*  
 57th Symposium on Theoretical Chemistry, STC 2021, Online (Würzburg)  
 (September 20th-24th, 2021)  
