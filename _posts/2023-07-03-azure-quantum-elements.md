@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Announces Azure Quantum Elements Including SCINE
-feature-img: "assets/img/posts/2023-07-03/assets/img/portfolio/scine_logo_webpage.png"
+feature-img: "assets/img/posts/2023-07-03/scine_logo_webpage.png"
 thumbnail: "assets/img/posts/2023-07-03/scine_logo_webpage.png"
 tags: [Scine, Code, Reaction Networks]
 ---
