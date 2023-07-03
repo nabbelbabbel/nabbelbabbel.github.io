@@ -6,6 +6,10 @@ feature-img: "assets/img/pexels/publications.jpeg"
 tags: [Poster, Talk]
 ---
 ## Scientific Talks
+*Charting Chemical Reaction Space with First-Principles Methods*  
+15th Symposium of the IRTG 2027 Münster--Toronto, Toronto, Münster  
+(April 27th, 2023)  
+
 *Autonomous quantum chemical mechanism exploration to aid artificial intelligence driven synthesis planning and catalyst design*  
 NCCR Catalysis Annual Event, Zürich  
 (June 9th-10th, 2022)  
@@ -47,6 +51,10 @@ Neugebauer Group Seminar, Münster
 (September 18th, 2015)  
 
 ## Poster Presentations
+*Efficiently Charting Chemical Reaction Space with First-Principles Methods*  
+17th International Congress of Quantum Chemistry, ICQC 2023, Bratislava  
+(June 26th–July 1st, 2023)  
+
 *Chemoton 2.0: Exploring Reaction Networks*  
 58th Symposium on Theoretical Chemistry, STC 2022, Heidelberg  
 (September 9th-22nd, 2022)  
