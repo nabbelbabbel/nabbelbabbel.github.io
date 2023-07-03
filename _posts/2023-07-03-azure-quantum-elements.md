@@ -14,7 +14,7 @@ a written version of their mission statement
 I am happy to share that SCINE is part of this new platform. 
 [SCINE is the Software for Chemical Interaction Networks developed in the Reiher research group.](https://scine.ethz.ch/)
 It is a framework of software packages to enable the automated investigation of chemical 
-reaction processes by exploration of (chemical reaction networks)[https://doi.org/10.1146/annurev-physchem-071119-040123].
+reaction processes by exploration of [chemical reaction networks](https://doi.org/10.1146/annurev-physchem-071119-040123).
 All software packages are open-source and can also be downloaded from GitHub and PyPI.
 The repositories can be found at [https://github.com/qcscine/](https://github.com/qcscine/).
 SCINE one of my long-term research projects central to my work
