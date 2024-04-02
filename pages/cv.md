@@ -8,9 +8,8 @@ tags: []
 
 ### Professional Experience
 - **since 08/2023** Software Design Engineer  
-Microsoft, Azure Quantum  
 Contracted through Experis Switzerland  
-Zürich, Switzerland  
+Microsoft, Azure Quantum, Switzerland  
 - **08/2018--08/2023** Postdoctoral Researcher  
 Group of Prof. Dr. Markus Reiher  
 Laboratory of Physical Chemistry  
