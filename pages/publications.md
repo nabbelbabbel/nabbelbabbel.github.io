@@ -7,14 +7,12 @@ tags: [Article]
 ---
 
 ## Latest Preprints
-
-
-## Scientific Articles
 *Heron: Visualizing and Controlling Chemical Reaction Explorations and Networks*  
 C. H. Müller, M. Steiner, J. P. Unsleber, T. Weymuth, M. Bensberg, K.-S. Csizi, M. Mörchen, P. L. Türtscher, M. Reiher  
 [(**2024**).](https://arxiv.org/abs/2406.09541)  
 Preprint: [*arXiv:2406.09541*](https://arxiv.org/abs/2406.09541)  
 
+## Scientific Articles
 *SCINE - Software for Chemical Interaction Networks*  
 T. Weymuth, J. P. Unsleber, P. L. Tuertscher, M. Steiner, J.-G. Sobez, C. H. Mueller, M. Moerchen, V. Klasovita, S. A. Grimmel, M. Eckhoff, K.-S. Csizi, F. Bosia, M. Bensberg, M. Reiher  
 [*J. Chem. Phys.*, 160, (**2024**), 222501.](https://doi.org/10.1063/5.0206974)  
